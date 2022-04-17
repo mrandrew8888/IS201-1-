@@ -1,0 +1,26 @@
+.heading{
+color: rgb(52, 52, 228);
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:x-large;
+font-weight: bold;
+}
+
+ul{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+ol{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+li{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+
+.topic{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+}
